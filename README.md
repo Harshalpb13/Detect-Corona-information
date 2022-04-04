@@ -1,0 +1,2 @@
+# Detect-Corona-information
+NA
